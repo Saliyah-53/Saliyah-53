@@ -1,29 +1,24 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&fontSize=0" width="100%"/>
-
 </div>
 
 <div align="center">
 
 ### Saliyah Alotaibi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+PhD+Candidate;Computer+Science+Teacher;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Building+AI+that+speaks+Arabic" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+PhD+Candidate;Technical+Trainer;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Building+AI+that+speaks+Arabic" alt="Typing animation" />
 
 </div>
 
 ---
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="52%" valign="top">
+<div align="center">
 
-### About · نبذة
+### About
 
 <p>
 AI researcher and Computer Science educator with a passion for building intelligent systems that bridge language and vision — with a focus on Arabic NLP and real-world applications in healthcare and education.
 </p>
-
 
 <br/>
 
@@ -31,14 +26,7 @@ AI researcher and Computer Science educator with a passion for building intellig
 ![PhD Candidate](https://img.shields.io/badge/PhD_Candidate-302b63?style=flat-square&logoColor=white)
 ![Technical Trainer](https://img.shields.io/badge/CS_Teacher-24243e?style=flat-square&logoColor=white)
 
-</td>
-<td width="4%"></td>
-<td width="44%" valign="top" align="center">
-
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -77,7 +65,6 @@ AI researcher and Computer Science educator with a passion for building intellig
 <div align="center">
 
 ### Research Interests
-
 ```
 Computer Vision  ·  Arabic NLP  ·  Medical AI  ·  Educational Technology  ·  Multimodal Learning
 ```
@@ -87,7 +74,5 @@ Computer Vision  ·  Arabic NLP  ·  Medical AI  ·  Educational Technology  · 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
-
 </div>
