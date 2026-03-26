@@ -42,6 +42,8 @@ AI researcher and Computer Science educator with a passion for building intellig
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=a78bfa)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=a78bfa)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=a78bfa)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=a78bfa)
+![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=a78bfa)
 
 **Data & Visualization**
 
@@ -49,6 +51,8 @@ AI researcher and Computer Science educator with a passion for building intellig
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=a78bfa)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=a78bfa)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=a78bfa)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=a78bfa)
+![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=a78bfa)
 
 **Deployment & Tools**
 
@@ -57,6 +61,21 @@ AI researcher and Computer Science educator with a passion for building intellig
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=a78bfa)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=a78bfa)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=a78bfa)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
+![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=a78bfa)
+
+</div>
+
+---
+
+<div align="center">
+
+### Certifications
+
+[![PMP](https://img.shields.io/badge/PMP-Project_Management_Professional-0d1117?style=for-the-badge&logo=pmi&logoColor=a78bfa)](https://www.pmi.org)
+[![RMP](https://img.shields.io/badge/RMP-Risk_Management_Professional-0d1117?style=for-the-badge&logo=pmi&logoColor=a78bfa)](https://www.pmi.org)
+[![ISO 42001](https://img.shields.io/badge/ISO_42001-Lead_Implementer_PECB-0d1117?style=for-the-badge&logo=iso&logoColor=a78bfa)](https://pecb.com)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-DLI_Ambassador-0d1117?style=for-the-badge&logo=nvidia&logoColor=a78bfa)](https://www.nvidia.com/dli)
 
 </div>
 
