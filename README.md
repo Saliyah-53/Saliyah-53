@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# سَلِيَى العتيبي · Saliyah Alotaibi
+Saliyah Alotaibi
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+PhD+Candidate;Computer+Science+Teacher;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Building+AI+that+speaks+Arabic" alt="Typing animation" />
 
@@ -24,9 +24,6 @@
 AI researcher and Computer Science educator with a passion for building intelligent systems that bridge language and vision — with a focus on Arabic NLP and real-world applications in healthcare and education.
 </p>
 
-<p dir="rtl" align="right">
-باحثة في الذكاء الاصطناعي ومعلمة علوم حاسب، أعمل على بناء أنظمة ذكية تجمع بين اللغة والرؤية الحاسوبية — مع تركيز خاص على معالجة اللغة العربية وتطبيقات الرعاية الصحية والتعليم.
-</p>
 
 <br/>
 
