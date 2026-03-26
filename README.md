@@ -24,7 +24,7 @@ AI researcher and Computer Science educator with a passion for building intellig
 
 ![AI Research](https://img.shields.io/badge/AI_Research-0f0c29?style=flat-square&logoColor=white)
 ![PhD Candidate](https://img.shields.io/badge/PhD_Candidate-302b63?style=flat-square&logoColor=white)
-![Technical Trainer](https://img.shields.io/badge/CS_Teacher-24243e?style=flat-square&logoColor=white)
+![Technical Trainer](https://img.shields.io/badge/Technical_Trainer-24243e?style=flat-square&logoColor=white)
 
 </div>
 
